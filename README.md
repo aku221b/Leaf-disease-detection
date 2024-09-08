@@ -1,5 +1,5 @@
 # Leaf_detection
-\(Integrating an ML Pipeline\) 
+\(Developing ML Pipeline\) 
 
 Welcome to my project! This repository contains the source code and documentation
 
